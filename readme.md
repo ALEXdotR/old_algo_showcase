@@ -2,4 +2,12 @@
 
 This is one of my first trial when I first exploring algo trading. The result is not quite good, but none the less a valuable experience. 
 
-I eventually moved on to some other approaches and succeeded with them (but those codes won't be disclosed XD) .
+After research, it was discovered that: 
+
+  1) The signal-to-noise ratio is too low in our data. One way to improve this is to explore more features. Otherwise it would be rubbish in rubbish out.
+  
+  2) it is believed that the methodologies involved here should only be used if it is expected that high degree of non-linearity will be involved. Otherwise, such methods are prone to overfitting and low generalization ability. 
+  
+  3) The characteristics of these methods are sensitive to noises, which is common for higher frequency data. On the one hand low frequency data although usually has less noises, its data size is smaller, and on the other hand high frequency data contain more noises, and thus a dilemma appears.
+
+I am still a new learner on quantitative methods on financial data, and I eventually moved on to a more robust method. Please correct me if something is wrong here. 
