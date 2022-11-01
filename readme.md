@@ -8,6 +8,6 @@ After research, it was discovered that:
   
   2) it is believed that the methodologies involved here should only be used if it is expected that high degree of non-linearity will be involved. Otherwise, such methods are prone to overfitting and low generalization ability. 
   
-  3) The characteristics of these methods are sensitive to noises, which is common for higher frequency data. On the one hand low frequency data although usually has less noises, its data size is smaller, and on the other hand high frequency data contain more noises, and thus a dilemma appears.
+  3) One of the characteristics of these methods is sensitivity to noises, which is common for higher frequency data. On the one hand low frequency data although usually has less noises, its data size is smaller, and on the other hand high frequency data contain more noises, and thus a dilemma appears.
 
 I am still a new learner on quantitative methods on financial data, and I eventually moved on to a more robust method. Please correct me if something is wrong here. 
